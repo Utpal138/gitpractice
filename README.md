@@ -1,5 +1,5 @@
 ### Git And Github Tutorials
 
-## Utpald Anand
+## Utpal Anand
 
-## GITHUB tUTORIALS
+## GITHUB TUTORIALS
